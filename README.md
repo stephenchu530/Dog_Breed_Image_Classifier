@@ -1,6 +1,6 @@
 # Dog Breed Image Classifier - Deep Learning Convolutional Neural Network Project Results
 
-This project report is a demonstration of the deep learning concepts such as convolutional neural networks and transfer learning to train an image classifier to identify dog breeds. The project uses a pipeline to pre-process images and then fed into the image classifier. It uses a series of steps from a barebone CNN model to the finalized pre-trained model using transfer learning to achieve 85% accuracy. A light-hearted application at the end is used to demonstrate the image classifier usage on real-world images of dogs and other things (such as my own likeness) to determine the likely breed regardless if the image really is a dog.
+This project report is a demonstration of the deep learning concepts such as convolutional neural networks and transfer learning to train an image classifier to identify dog breeds. The project uses a pipeline to pre-process images and then feed it into the image classifier. This report follows a series of steps from a barebone CNN model to the finalized pre-trained model using transfer learning to achieve ~85% accuracy. A light-hearted application at the end is used to demonstrate the image classifier on real-world images of dogs and other things (such as my own likeness) to determine the likely breed regardless if the image really is a dog.
 
 ### Installation
 
