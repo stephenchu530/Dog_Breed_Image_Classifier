@@ -19,7 +19,7 @@ To view the project report locally:
 
 `$ jupyter notebook dog_app.ipynb`
 
-Or open `report.html` in your preferred browswer
+Or open `report.html` in your preferred browser
 
 Or view `dog_app.ipynb` within GitHub.
 
